@@ -36,6 +36,6 @@ public class Game implements Runnable {
                 frames++;
             }
         }
-
+        //need add input fps
     }
 }
